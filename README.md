@@ -31,4 +31,10 @@ Ensure you have the required dependencies installed:
 ```
 pip install numpy opencv-python matplotlib
 ```
+## Dataset
 
+Due to the size of the dataset, it is not included directly in this repository. You can download the dataset from the following link:
+
+[Download Dataset](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format)
+
+Please follow the instructions in the documentation to properly integrate the dataset with the code.
